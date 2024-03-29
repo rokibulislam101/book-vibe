@@ -33,7 +33,7 @@ const router = createBrowserRouter([
         element: <ListedBooks></ListedBooks>,
         loader: () =>
           fetch(
-            'https://rokibulislam101.github.io/A-Collection-of-Book-Reviews/books.json'
+            'https://rokibulislam101.github.io/A-Collection-of-Books-Reviews/allbooks.json'
           ),
       },
       {
@@ -41,7 +41,7 @@ const router = createBrowserRouter([
         element: <PagesToRead></PagesToRead>,
         loader: () =>
           fetch(
-            'https://rokibulislam101.github.io/A-Collection-of-Book-Reviews/books.json'
+            'https://rokibulislam101.github.io/A-Collection-of-Books-Reviews/allbooks.json'
           ),
       },
       {
@@ -49,7 +49,7 @@ const router = createBrowserRouter([
         element: <Classics></Classics>,
         loader: () =>
           fetch(
-            'https://rokibulislam101.github.io/A-Collection-of-Book-Reviews/books.json'
+            'https://rokibulislam101.github.io/A-Collection-of-Books-Reviews/allbooks.json'
           ),
       },
       {
@@ -57,7 +57,7 @@ const router = createBrowserRouter([
         element: <Bestsellers></Bestsellers>,
         loader: () =>
           fetch(
-            'https://rokibulislam101.github.io/A-Collection-of-Book-Reviews/books.json'
+            'https://rokibulislam101.github.io/A-Collection-of-Books-Reviews/allbooks.json'
           ),
       },
       {
@@ -65,7 +65,7 @@ const router = createBrowserRouter([
         element: <BookDetail></BookDetail>,
         loader: () =>
           fetch(
-            'https://rokibulislam101.github.io/A-Collection-of-Book-Reviews/books.json'
+            'https://rokibulislam101.github.io/A-Collection-of-Books-Reviews/allbooks.json'
           ),
       },
     ],
