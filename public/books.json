@@ -1,0 +1,146 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.postimg.cc/YCCY1Fd2/book1.png",
+      "review": "A captivating tale of love, ambition, and the American Dream set amidst the roaring twenties.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Classic",
+      "tags": [
+        "Romance",
+        "Drama"
+      ],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.postimg.cc/Fzh7htqF/book2.png",
+      "review": "A poignant portrayal of racial injustice and moral growth in the Deep South.",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": [
+        "Social Justice",
+        "Coming of Age"
+      ],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.postimg.cc/2yj8PQbV/book3.png",
+      "review": "An unsettling vision of a dystopian future where surveillance and control reign supreme.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Science Fiction",
+      "tags": [
+        "Dystopia",
+        "Political"
+      ],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.postimg.cc/BQ6npCfz/book4.png",
+      "review": "A timeless coming-of-age story exploring teenage angst and disillusionment.",
+      "totalPages": 224,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": [
+        "Teen",
+        "Identity"
+      ],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.postimg.cc/k5rMn3Rr/book5.png",
+      "review": "A charming tale of love, manners, and societal expectations in Georgian England.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Classic",
+      "tags": [
+        "Romance",
+        "Satire"
+      ],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.postimg.cc/wMBgW9ZN/book6.png",
+      "review": "An enchanting adventure filled with dwarves, elves, dragons, and the unexpected heroism of Bilbo Baggins.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": [
+        "Adventure",
+        "Quest"
+      ],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 7,
+      "bookName": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://i.postimg.cc/vTSMkpwN/book7.png",
+      "review": "A psychological exploration of guilt, morality, and redemption set in 19th-century St. Petersburg.",
+      "totalPages": 430,
+      "rating": 4.7,
+      "category": "Classic",
+      "tags": [
+        "Philosophical",
+        "Russian Literature"
+      ],
+      "publisher": "The Russian Messenger",
+      "yearOfPublishing": 1866
+    },
+    {
+      "bookId": 8,
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.postimg.cc/g0qpmwPR/book8.png",
+      "review": "An epic tale of friendship, heroism, and the struggle against the dark forces of Sauron.",
+      "totalPages": 1178,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": [
+        "Adventure",
+        "Epic"
+      ],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 9,
+      "bookName": "Frankenstein",
+      "author": "Mary Shelley",
+      "image": "https://i.postimg.cc/1tvZVLX3/book9.png",
+      "review": "A chilling tale of scientific hubris and the consequences of playing god.",
+      "totalPages": 280,
+      "rating": 4.6,
+      "category": "Gothic Fiction",
+      "tags": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+      "yearOfPublishing": 1818
+    }
+  ]
