@@ -106,8 +106,8 @@ const BookDetail = () => {
                         <p>{book.rating}</p>
                 </div>
                         
-                    <button onClick={() => handleReadBook(book.bookId)} className="btn bg-green-500 hover:bg-transparent mr-3">Read</button>
-                    <button onClick={() => handleWishlistBook(book.bookId)} className="btn btn-primary hover:text-black hover:bg-transparent ">Wishlist</button>
+                    <button onClick={() => handleReadBook(book.bookId)} className="btn bg-transparent hover:text-white hover:bg-green-500 font-bold border-neutral-800 mr-3 px-7">Read</button>
+                    <button onClick={() => handleWishlistBook(book.bookId)} className="btn bg-teal-500 font-bold text-white hover:text-black hover:bg-transparent ">Wishlist</button>
                 </div>
             </div>
             <ToastContainer />

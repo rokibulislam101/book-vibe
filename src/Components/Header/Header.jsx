@@ -54,8 +54,8 @@ const Header = () => {
           <ul className="menu-horizontal px-5">{links}</ul>
         </div>
         <div className="navbar-end gap-5">
-          <Link className="btn bg-green-500">Log In</Link>
-          <Link className="btn bg-teal-500">Register</Link>
+          <Link className="btn bg-green-500 text-white font-bold">Log In</Link>
+          <Link className="btn bg-teal-500 text-white font-bold">Register</Link>
         </div>
       </div>
     );

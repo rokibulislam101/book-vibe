@@ -16,7 +16,7 @@ const Banner = () => {
               Books to freshen up your bookshelf
             </h1>
 
-            <Link to="/listed" className="btn bg-green-500">
+            <Link to="/listed" className="btn bg-green-400 text-white font-bold">
               View The List
             </Link>
           </div>
