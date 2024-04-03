@@ -11,7 +11,7 @@ const Book = ({ book }) => {
     return (
         <Link
         to={`/book/${bookId}`}
-        className="p-6  rounded-md shadow-lg transition hover:scale-105 border hover:border  hover:border-primary">
+        className="p-6  rounded-md shadow-lg transition hover:scale-105 border hover:border hover:border-green-500">
             <div className="flex justify-center items-center bg-slate-100 p-5border-opacity-30 rounded-2xl">
                 <img src={image} alt="" className="rounded-md h-72 p-10" />
             </div>

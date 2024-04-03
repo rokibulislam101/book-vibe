@@ -30,7 +30,7 @@ const BookCard = ({ book }) => {
                 <hr className="border-b border-gray-100 " />
                 
                 <div className="*:mr-5 flex flex-col justify-center gap-5 items-center lg:flex-row ">
-                    <button className="text-primary font-bold bg-sky-100  rounded-3xl py-1 px-4">Catagory: {category}</button>
+                    <button className="text-primary font-bold bg-sky-100  rounded-3xl py-1 px-4">Category: {category}</button>
                     <button className="text-orange-500 font-bold bg-orange-100  rounded-3xl p-1">Rating: {rating}</button>
                     <Link to={`/book/${bookId}`} className="text-green-500 font-bold bg-green-100 text-center rounded-3xl py-1 px-4">View Details
                     </Link>

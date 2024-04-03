@@ -98,7 +98,7 @@ const BookDetail = () => {
                     
                 </div>
                 <div className="flex gap-16">
-                        <p>Year of Publishiing:</p>
+                        <p>Year of Publishing:</p>
                         <p>{book.yearOfPublishing}</p>
                 </div>
                 <div className="flex gap-40">

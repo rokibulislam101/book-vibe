@@ -69,7 +69,7 @@ const ListedBooks = () => {
 
             {/* short** */}
             <div className="dropdown flex justify-center items-center dropdown-bottom my-20">
-                <div tabIndex={0} role="button" className="btn m-1 bg-green-500">Short by</div>
+                <div tabIndex={0} role="button" className="btn flex align-center m-1 bg-green-500 text-white font-bold">Short by <img className='w-4' src="./src/assets/angle-arrow-down.png" alt="" /> </div>
                 <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
                     <li onClick={() => handleBooksFilter('rating')}><a>Rating</a></li>
                     <li onClick={() => handleBooksFilter('totalPages')}><a>Number of Pages</a></li>
@@ -88,7 +88,7 @@ const ListedBooks = () => {
             <div>
                 {
                     newState.map(book => <BookCard key={book.bookId} book={book}>
-                       
+                    
                     </BookCard>)
                 }
                 {/* {
